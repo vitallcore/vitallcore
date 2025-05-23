@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Back-end Developer
 -------------------------
 
-I studied at Omsk Pedagogical University in the faculty of foreign languages ​​in 2010. for more than 10 years i have worked in various fields, but the interest in development has always been there to one degree or another. Finally i decided to connect my life and work with development fully. Quite recently, I decided to change my career path. Currently, I am at the final stage of the Python Developer program at Hexlet Online School. I sincerely enjoy the learning process, and I want to reach my full potential in the IT field.
+I studied at Omsk Pedagogical University in the faculty of foreign languages ​​in 2010. for more than 10 years i have worked in various fields, but the interest in development has always been there to one degree or another. Finally i decided to connect my life and work with development fully. Quite recently, I decided to change my career path. Currently I  finished the Python Developer program at Hexlet Online School. I sincerely enjoy the learning process, and I want to reach my full potential in the IT field.
 
 * 🌍  I'm based in Omsk
 * ✉️  You can contact me at [vitaslipknot@gmail.com](mailto:vitaslipknot@gmail.com)
